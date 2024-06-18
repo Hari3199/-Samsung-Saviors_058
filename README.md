@@ -8,6 +8,13 @@ This is a React application for planning and managing weekend trips. The applica
 The application is deployed at [Weekend Planner](https://my-weekend-planner.netlify.app/).
 
 ---
+
+---
+<h2 align="center">Video Walkthrough of the project</h2>
+
+[Presentation Link](https://www.youtube.com/watch?v=ALDQgUxVJgE).
+
+---
 ## Directory Structure
 
 ```plaintext
